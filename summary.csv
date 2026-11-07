@@ -1,0 +1,4 @@
+Segment,Periods,Gross return % a year,Net return % a year,Net Sharpe,Net t (Newey-West),Max drawdown %,Avg turnover per month
+Full sample,178,1.355,0.79,0.086,0.34,-23.113,0.471
+In-sample (first 60%),106,3.406,2.847,0.301,0.96,-17.392,0.465
+Holdout (last 40%),72,-1.663,-2.238,-0.256,-0.627,-21.476,0.479
